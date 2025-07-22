@@ -1,1 +1,150 @@
 
+Zip Technologies (“Zip,” “we,” “us,” or “our”) respects your privacy and is committed to protecting your personal information. This Privacy Policy explains how we collect, use, share, and safeguard your information when you access or use Zip Wallet, our non-custodial Web3 wallet application, including related features, websites, APIs, and services (collectively, the “Services”).
+Please read this Privacy Policy carefully. By using the Services, you agree to the terms of this Privacy Policy.
+
+1. Scope of This Policy
+This Privacy Policy applies to all users of the Zip Wallet mobile app, browser extension, and any associated platforms or services. It does not apply to any third-party websites, decentralized applications (dApps), or services that we do not control. If you interact with a third-party service through our platform, their privacy policy governs that interaction.
+
+2. What We Do Not Collect
+Zip Wallet is designed with privacy and decentralization in mind. Therefore, we:
+Do not collect your private keys, seed phrases, or wallet passwords.
+
+
+Do not collect or store financial or banking details, except when required for specific services like fiat on/off ramps provided by regulated third parties.
+
+
+Do not sell your personal information to any third party.
+
+
+Do not collect unnecessary or intrusive data unrelated to delivering or improving your experience with Zip Wallet.
+
+
+
+3. Information We May Collect
+We only collect limited personal data required to operate and improve our Services.
+a. Automatically Collected Information
+We may temporarily process:
+IP address (to prevent fraud, detect DDoS attacks, and optimize routing).
+
+
+Device and technical data, such as OS version, browser type, crash logs, and device identifiers.
+
+
+General geolocation (based on IP) to enhance service delivery.
+
+
+Usage data, such as request volume, latency, or interaction patterns (used in anonymized analytics).
+
+
+b. Information You Choose to Provide
+Wallet address (used to interact with APIs or certain blockchain services).
+
+
+Contact information, such as email address, if you engage with our support or sign up for newsletters.
+
+
+Preferences and settings, stored locally or securely on our servers (if you opt in).
+
+
+Feedback or survey responses, when you voluntarily provide them.
+
+
+Marketing preferences, if you opt in for updates or product-related messages.
+
+
+
+4. How We Use Your Information
+We only use the data we collect to:
+Operate, maintain, and improve Zip Wallet functionality.
+
+
+Secure the Services from fraud, abuse, and attacks.
+
+
+Comply with legal or regulatory obligations (e.g., KYC/AML compliance where applicable).
+
+
+Provide customer support and service-related communications.
+
+
+Send promotional or educational content if you've opted in (and you can unsubscribe at any time).
+
+
+
+5. Your Privacy Controls
+You remain in control of your data:
+You can opt out of marketing, analytics, and notifications anytime via your settings.
+
+
+You may use VPNs or privacy browsers to limit exposure of IP or geolocation.
+
+
+You can switch to a custom RPC provider or use privacy-enhanced configurations.
+
+
+
+6. Data Sharing
+Zip Wallet may share limited data in the following scenarios:
+With trusted service providers (e.g., infrastructure hosting, DDoS protection, payment processors) strictly for operational purposes.
+
+
+With regulatory bodies, when legally required.
+
+
+With third-party services, but only when you choose to interact with them (e.g., on/off ramps, dApps).
+
+
+✅ We do not share your data for advertising or monetisation purposes.
+
+7. Security Measures
+We implement reasonable technical and organizational measures to protect your data, including encryption, access control, and data minimization.
+🚨 However, you are solely responsible for the security of your wallet credentials (seed phrase, private key). We cannot recover lost wallets.
+
+8. Children’s Privacy
+Zip Wallet is not intended for individuals under the age of 18. We do not knowingly collect or solicit personal information from minors. If we discover that we have inadvertently collected such information, we will promptly delete it.
+
+9. Data Retention
+We retain minimal personal information only for as long as necessary to:
+Provide the Services.
+
+
+Comply with legal obligations.
+
+
+Resolve disputes or enforce our terms.
+
+
+We will delete or anonymise your data when it is no longer required.
+
+10. Your Rights
+Depending on your country or state of residence, you may have the right to:
+Access the personal data we hold about you.
+
+
+Request deletion of your data.
+
+
+Object to or restrict data processing.
+
+
+Withdraw your consent at any time.
+
+
+File a complaint with a supervisory or data protection authority.
+
+
+To exercise any of these rights, contact us at:
+ 📧 zipwallet.pvt@gmail.com
+We may ask for identity verification before fulfilling certain requests.
+
+11. Third-Party Integrations
+Zip Wallet allows interactions with external dApps and services. These third-party platforms operate independently, and their privacy practices are not covered by this policy. We encourage you to read their privacy notices before connecting.
+
+12. Changes to This Policy
+We may update this Privacy Policy to reflect changes in our practices, legal requirements, or improvements to our Services. The latest version will always be available on our website or in-app. Material changes will be communicated to you before they take effect.
+Your continued use of Zip Wallet means you accept the updated Privacy Policy.
+
+13. Contact Us
+If you have questions, concerns, or requests regarding your privacy, please contact:
+Zip Wallet Privacy Team
+ 📧zipwallet.pvt@gmail.com
